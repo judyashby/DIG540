@@ -23,4 +23,4 @@ Part 4: Create or re-familiarize yourself with your GitHub account <https://gith
 - Back in GitHub Desktop, commit your changes to GitHub;
 - In the GitHub website for your repository, create a pull request so I can see your new vocabulary term and merge it to the main branch.
 
-**The assignment should be done by Wednesday Sept. 7th.**
+**The assignment should be done by Wednesday Sept. 6th.**
